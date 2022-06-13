@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: grey;
+}
+
+.blog-container {
+    margin: 40px 100px;
+
+}
+
+header h2 {
+    font-size: 1em;
+    text-transform: uppercase;
+    color: white;
+    padding-bottom: 50px;
+}
+
+header h2 span {
+    color: palegoldenrod;
+}
+
+
+.section-1 {
+    height: 350px;
+    background: url('./images/travel11.jpg') no-repeat center center/cover;
+    display: block;
+}
